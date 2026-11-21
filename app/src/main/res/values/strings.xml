@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LK Keyboard</string>
+    <string name="ime_service_label">LK Keyboard</string>
+    <string name="subtype_english">English (QWERTY)</string>
+    <string name="subtype_urdu">Urdu (اردو)</string>
+    <string name="subtype_pashto">Pashto (پښتو)</string>
+    <string name="subtype_roman_urdu">Roman Urdu (رومن اردو)</string>
+    <string name="password_privacy_notice">Password mode • Suggestions &amp; learning paused</string>
+    <string name="voice_permission_explanation">Microphone access is used only when you tap the Mic key for voice typing. Audio is handled by your device\'s Android SpeechRecognizer service (on-device or your configured speech provider). LK Keyboard never logs or uploads typed text or passwords.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "LK Keyboard",
+  "description": "A native Dark AI Android Input Method Editor (IME) supporting English, Urdu, Pashto, and Roman Urdu transliteration with privacy-first local intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
